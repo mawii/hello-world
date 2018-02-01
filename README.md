@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+The guide says to write a bit about yourself...
+
+a bit about yourself
